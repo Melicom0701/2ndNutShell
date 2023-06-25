@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1683284191 source:/home/melicom/CP/PBLinANutShell/input.cpp
+	<bits/stdc++.h>
+
+1683334717 source:/home/melicom/CP/PBLinANutShell/main.cpp
+	<iostream>
+	"my_functions.h"
+
+1683334621 /home/melicom/CP/PBLinANutShell/my_functions.h
+
+1683334631 source:/home/melicom/CP/PBLinANutShell/my_functions.cpp
+	<iostream>
+	"my_functions.h"
+
+1684540614 source:e:\pbl1\pblinanutshell\main.cpp
+	<iostream>
+	"my_functions.h"
+
+1685507204 e:\pbl1\pblinanutshell\my_functions.h
+
+1685526183 source:e:\pbl1\pblinanutshell\my_functions.cpp
+	<iostream>
+	"my_functions.h"
+	<ctime>
+	<fstream>
+	<stack>
+	<graphics.h>
+	<string.h>
+	<math.h>
+	<cstdio>
+
+1687699640 source:e:\pbl1\pblinanutshell-zerooneindex\pblinanutshell-zerooneindex\main.cpp
+	<iostream>
+	"my_functions.h"
+
+1687699612 e:\pbl1\pblinanutshell-zerooneindex\pblinanutshell-zerooneindex\my_functions.h
+
+1687710911 source:e:\pbl1\pblinanutshell-zerooneindex\pblinanutshell-zerooneindex\my_functions.cpp
+	<iostream>
+	"my_functions.h"
+	<ctime>
+	<fstream>
+	<stack>
+	<graphics.h>
+	<string.h>
+	<math.h>
+	<Windows.h>
+	<cstdio>
+	<cwchar>
+
